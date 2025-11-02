@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ising2025.github.io/personal-portfolio-y-cs/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
